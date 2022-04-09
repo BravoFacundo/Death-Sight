@@ -1,2 +1,2 @@
 # DeathSight
- WIP VR-Cardboard Raycast based videogame
+ WIP VR-Cardboard Raycast based videogame.
